@@ -7,3 +7,7 @@ thislist = ["apple", "banana", "cherry", "aplle", "cherry"]
 print(thislist)
 
 #***************************#
+
+print(len(thislist))
+
+#***************************#
