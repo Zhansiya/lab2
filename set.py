@@ -118,3 +118,12 @@ thisset = {"apple", "banana", "cherry"}
 del thisset
 
 print(thisset)
+
+#***************************#
+
+thisset = {"apple", "banana", "cherry"}
+
+for x in thisset:
+  print(x)
+
+#***************************#
