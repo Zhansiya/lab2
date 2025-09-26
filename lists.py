@@ -21,3 +21,8 @@ list3 = [True, False, False]
 list1 = ["abc", 34, True, 40, "male"]
 
 #***************************#
+
+thislist = ["apple", "banan", "cherry"]
+print(thislist[1])
+
+#***************************#
