@@ -40,4 +40,21 @@ print(type(myset))
 thisset = set(("apple", "banana", "cherry")) # note the double round-brackets
 print(thisset)
 
+#***************************#
+
+thisset = {"apple", "banana", "cherry"}
+
+for x in thisset:
+  print(x)
+
+
+thisset = {"apple", "banana", "cherry"}
+
+print("banana" in thisset)
+
+
+thisset = {"apple", "banana", "cherry"}
+
+print("banana" not in thisset)
+
 
